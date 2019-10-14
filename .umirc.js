@@ -1,6 +1,6 @@
 export default {
     plugins: [
-      'umi-plugin-hello',
+      'umi-plugin-umi_plugin_hello',
     ],
   };
   
